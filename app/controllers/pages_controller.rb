@@ -7,6 +7,7 @@ class PagesController < ApplicationController
 
   def about
     @student = "Isabelle"
+    @information_text="blabakhajkhdekdhle"
   end
 
 end
