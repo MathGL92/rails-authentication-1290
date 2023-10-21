@@ -6,6 +6,7 @@ class PagesController < ApplicationController
   end
 
   def about
+    @student = "Isabelle"
   end
 
 end
