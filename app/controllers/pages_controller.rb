@@ -6,6 +6,7 @@ class PagesController < ApplicationController
   end
 
   def about
+    @information_text="blabakhajkhdekdhle"
   end
 
 end
